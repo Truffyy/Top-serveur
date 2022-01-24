@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "composer": "^4.1.0",
+    "froala-editor": "^4.0.6",
+    "jquery": "^3.6.0"
+  }
+}
