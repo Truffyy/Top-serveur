@@ -6,9 +6,9 @@ Site that allows you to put private server games for visibility. There is also a
 
 ## General informations :
 
--There's a captcha API to check if your a bot or not.
--You can register, login, adding a server, delete it, you also have a 'wallet' that shows you your amount of money.
--You can add a specific API on minecraft to show to people how many people is connected on your server on live.
+1. There's a captcha API to check if your a bot or not.
+2. You can register, login, adding a server, delete it, you also have a 'wallet' that shows you your amount of money.
+3. You can add a specific API on minecraft to show to people how many people is connected on your server on live.
 
 ## Technologies and resources
 
