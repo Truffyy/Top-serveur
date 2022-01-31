@@ -12,9 +12,9 @@ Site that allows you to put private server games for visibility. There is also a
 
 ## Technologies and resources
 
-*HTML
-*CSS (BULMA)
-*jAVASCRIPT
-*PHP
-*mySQL
-*GIT
+- HTML
+- CSS (BULMA)
+- jAVASCRIPT
+- PHP
+- mySQL
+- GIT
